@@ -1,7 +1,7 @@
 # Design-Profissional
 # 📊 Portal de Gestão de Projetos Sociais
 
-Projeto desenvolvido para a disciplina de **Design Profissional** (2º Semestre de Gestão da Tecnologia da Informação).
+Projeto desenvolvido para a disciplina de **Design Profissional** (2º Semestre de Gestão da Tecnologia da Informação) 
 
 ## 🎯 Objetivo do Projeto
 Organizar, monitorar e dar transparência a projetos sociais, facilitando o controle de beneficiários, metas de atendimento e prestação de contas.
